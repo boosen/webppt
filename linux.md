@@ -221,7 +221,7 @@ fi
 case string in
 str1)
 
-	command1;;
+	command1;; #表示命令序列结束
 str2)
 
 	command2;;
